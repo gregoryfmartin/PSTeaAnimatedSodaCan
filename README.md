@@ -4,6 +4,10 @@ PSTea Animated Soda Can is a port of my [Animated Soda Can Demo](https://gist.gi
 
 This is a self-contained tech demo that you can download and run in either PowerShell 5.X or 7.X. The soda can images are encoded in both Sixel and Kitty Graphics Protocol. If you see blank or odd characters in the rendering of the cans, your terminal emulator likely doesn't support these encoding formats.
 
+## Video Demonstration
+
+https://github.com/user-attachments/assets/9b0e37b5-a904-4226-b15f-78e7af431bbd
+
 ## How It Works
 
 The script defines several classes:
